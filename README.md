@@ -11,7 +11,7 @@
 [https://github.com/Sharpiless/yolov5-deepsort/](https://github.com/Sharpiless/yolov5-deepsort/)
 
 最终效果：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201231090541223.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkzNjg4OQ==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://github.com/Sharpiless/Yolov5-Deepsort/blob/main/image.png)
 # YOLOv5检测器：
 
 ```python
